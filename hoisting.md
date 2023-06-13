@@ -43,7 +43,7 @@ var a;
 10
 ```
 
-## In the above example, ``` var a``` is used before declaring it. And the program works and displays the output 5.
+## In the above example, ``` var a``` is used before declaring it. And the program works and displays the output 10.
 
 
 <br>
